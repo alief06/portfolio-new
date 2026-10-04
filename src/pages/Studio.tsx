@@ -5,7 +5,7 @@ import project4Img1 from "../assets/projects/project4/project4_1.jpeg";
 import project5Img1 from "../assets/projects/project5/mindly_poster.png";
 import project6Img1 from "../assets/projects/project6/speak_up_poster.png";
 import project7Img1 from "../assets/projects/project7/si_waras_poster.png";
-import project8Img1 from "../assets/projects/project8/Screenshot 2026-07-27 at 17.15.20.png";
+import project8Img1 from "../assets/projects/project8/project8_screenshot.png";
 import project9Img1 from "../assets/projects/project9/image.png";
 
 export default function Studio() {
